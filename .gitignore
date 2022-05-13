@@ -2,3 +2,6 @@
 .vscode/settings.json
 .vscode/
 output/
+*.spec
+dist/
+build/
